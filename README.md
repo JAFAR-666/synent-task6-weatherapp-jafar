@@ -75,4 +75,8 @@ synent-task6-weatherapp-jafar/
 
 Jafar Hussain
 
+<<<<<<< HEAD
 Synent Task 6 Submission
+=======
+Synent Task 6 Submission
+>>>>>>> 3dbbb36fa2525611e070108e6fe7160769ec5ede
