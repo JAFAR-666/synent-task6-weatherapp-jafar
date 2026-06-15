@@ -22,8 +22,8 @@ from utils.favorites import (
 # =====================================
 
 st.set_page_config(
-    page_title="WeatherInsight Pro",
-    page_icon="🌤",
+    page_title="WeatherInsight",
+    page_icon="⛅",
     layout="wide"
 )
 
@@ -31,7 +31,7 @@ st.set_page_config(
 # SIDEBAR
 # =====================================
 
-st.sidebar.title("🌤 WeatherInsight Pro")
+st.sidebar.title("⛅ WeatherInsight")
 
 page = st.sidebar.radio(
     "Navigation",
@@ -51,7 +51,7 @@ page = st.sidebar.radio(
 
 if page == "Dashboard":
 
-    st.title("🌤 WeatherInsight Pro")
+    st.title("⛅ WeatherInsight")
 
     city = st.text_input(
         "Enter City Name",
