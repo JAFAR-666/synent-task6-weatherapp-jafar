@@ -444,9 +444,7 @@ if page == "About":
 
     st.write(
         """
-# Developed by :Jafar Hussain Galibaigari
-# Mail: jafar3760409@gmail.com
-#Contact No: +91 6309308147
+
 # WeatherInsight Pro
 
 Advanced Weather Dashboard
@@ -466,5 +464,10 @@ Advanced Weather Dashboard
 - Favorites
 - Recommendations
 - Modern UI
+
+# Developed by :Jafar Hussain Galibaigari
+# Mail: jafar3760409@gmail.com
+# Contact No: +91 6309308147
         """
     )
+    
